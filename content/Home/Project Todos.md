@@ -11,15 +11,15 @@ kanban-plugin: basic
 
 ## Doing
 
-- [ ] Basics of [[Convolutional Neural Network]]<br>- [x] Read<br>- [ ] Note
-- [ ] Encoder-Decoder Architecture
 - [ ] BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs
-- [ ] BlazePose: On-device Real-time Body Pose tracking
+- [ ] [[BlazePose - On-device Real-time Body Pose tracking]]
 
 
 ## Done
 
 **Complete**
+- [x] [[Encoder-Decoder Architecture]]
+- [x] Basics of [[Convolutional Neural Network]]<br>- [x] Read<br>- [x] Note
 
 
 
